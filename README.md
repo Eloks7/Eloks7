@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eloks7
+- 👋 Hi, I’m @Eloka
 - 👀 I’m interested in Product design and web development.
 - 🌱 I’m currently learning Node.js 
 - 💞️ I’m looking to collaborate on Design projects
