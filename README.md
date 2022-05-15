@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eloka
 - 👀 I’m interested in Product design and web development.
-- 🌱 I’m currently learning Node.js 
-- 💞️ I’m looking to collaborate on Design projects
+- 🌱 I’m currently learning Full Stack Web Development on Udacity. 
+- 💞️ I’m looking to collaborate on Design projects.
 - 📫 How to reach me elokakene@gmail.com
 
 <!---
