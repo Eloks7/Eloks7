@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eloka
 - 👀 I’m interested in Product design and web development.
-- 🌱 I’m currently learning Full Stack Web Development on Udacity. 
+- 🌱 I’m a Full Stack Designer and currently learning React on Udacity. 
 - 💞️ I’m looking to collaborate on Design projects.
 - 📫 How to reach me elokakene@gmail.com
 
